@@ -3,3 +3,4 @@ Step 2: Wait for the delivery
 Step 3: select three meat combo
 Step 4: brand new
 Step 5: working on a feature on the geo branch
+Step 6: working on a feature on the test branch
